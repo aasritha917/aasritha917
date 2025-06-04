@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Aasritha 👋
 
-<!--
-**aasritha917/aasritha917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Computer Science graduate 
+💻 Aspiring Software Developer | Java | React | Firebase | Python  
+🚀 Passionate about building innovative projects and learning new technologies  
+🔍 Currently looking for full-time opportunities in Software Development
 
-Here are some ideas to get you started:
+## 💼 Skills
+- **Languages:** Java, Python, C
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind
+- **Backend & Tools:** Firebase, Git, GitHub, VS Code, SQL
+- **Others:** Data Structures, OOPs, Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- 📧 Email: aasrithaaishu@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaluvala-aasritha)  
+- 🌐 Portfolio (Coming soon!)
+
+Thanks for visiting my profile! ⭐
+
