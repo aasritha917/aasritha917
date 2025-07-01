@@ -9,7 +9,7 @@
 - **Languages:** Java, Python, C
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind
 - **Backend & Tools:** Firebase, Git, GitHub, VS Code, SQL ,Node.js
-- **DATABASES:** MySQL,mongoDB
+- **Databases:** MySQL,mongoDB
 - **Others:** Data Structures, OOPs, Problem Solving
 
 ## 📫 Let's Connect
