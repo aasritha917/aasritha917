@@ -1,6 +1,6 @@
 # Hi there, I'm Aasritha 👋  
 
-🎓 **Recent Computer Science Graduate**  
+🎓 **Computer Science Graduate**  
 💻 **Aspiring Software Developer | Java | React | Node | Firebase**  
 🚀 Passionate about building innovative projects and continuously learning new technologies  
 🔍 Currently seeking **Full-Time Opportunities as a MERN Stack Developer**  
