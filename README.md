@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/user-attachments/assets/bf054b5e-2557-435e-b669-4a2c197632d6" alt="vector illustration" width="250" height="200"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/bf054b5e-2557-435e-b669-4a2c197632d6" alt="vector illustration" width="500" height="250"/></p>
 
 
 <h1 align="center">Hi 👋, I'm KALUVALA AASRITHA</h1>
