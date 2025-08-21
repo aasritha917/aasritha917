@@ -1,5 +1,6 @@
 
-![a_flat_vector_style_illustration_of_a_young](https://github.com/user-attachments/assets/bf054b5e-2557-435e-b669-4a2c197632d6)
+<img src="https://github.com/user-attachments/assets/bf054b5e-2557-435e-b669-4a2c197632d6" alt="vector illustration" width="250"/>
+
 
 <h1 align="center">Hi 👋, I'm KALUVALA AASRITHA</h1>
 <h3 align="center">Passionate about building innovative projects and continuously learning new technologies</h3>
