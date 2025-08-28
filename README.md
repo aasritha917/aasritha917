@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **aasrithaaishu@gmail.com**
 
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://portfolio-aasritha.vercel.app/)
+
 - ⚡ Fun fact **I overthink a lot 😂**
 
 ---
